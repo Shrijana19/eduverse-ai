@@ -55,7 +55,7 @@ function Board({ state }: { state: LessonState }) {
 }
 
 function Teacher({ state }: { state: LessonState }) {
-  return <div className={`teacher-stage-character state-${state}`}><div className="teacher-aura" /><div className="teacher-shadow" /><div className="teacher-image-wrap"><video src="/manus-storage/eduverse-approved-avatar-moving_f14f70ab.mp4" poster="/manus-storage/eduverse-female-teacher_1cd1ee2c.png" autoPlay loop muted playsInline aria-label="Mira, the EduVerse AI teacher, presenting the lesson"><source src="/manus-storage/eduverse-approved-avatar-moving_f14f70ab.mp4" type="video/mp4" /></video></div><div className="gesture-orb"><Sparkles size={14} /></div><div className="teacher-badge"><span className="badge-live" /> Mira · AI Teacher</div></div>;
+  return <div className={`teacher-stage-character state-${state}`}><div className="teacher-aura" /><div className="teacher-shadow" /><div className="teacher-image-wrap"><video src="/manus-storage/eduverse-approved-avatar-moving_e1a40c68.mp4" poster="/manus-storage/eduverse-female-teacher_1cd1ee2c.png" autoPlay loop muted playsInline aria-label="Mira, the EduVerse AI teacher, presenting the lesson"><source src="/manus-storage/eduverse-approved-avatar-moving_e1a40c68.mp4" type="video/mp4" /></video></div><div className="gesture-orb"><Sparkles size={14} /></div><div className="teacher-badge"><span className="badge-live" /> Mira · AI Teacher</div></div>;
 }
 
 export default function Home() {

@@ -1,6 +1,7 @@
-# Clean Teacher Motion Clip Fix
+# Final Reference-Inspired Teacher Video
 
-- [ ] Inspect the current moving clip for the unintended screen-within-screen ending.
-- [ ] Trim or rebuild the clip so only the teacher performance remains.
-- [ ] Reintegrate the clean motion clip into the lesson stage.
-- [ ] Verify the loop and save a new delivery checkpoint.
+- [ ] Preserve the semi-realistic digital teacher identity.
+- [ ] Keep continuous slide-in, bobbing, nod/tilt, and gesture motion.
+- [ ] Keep the animated Newton’s Laws diagram stages and teacher gesture cue.
+- [ ] Keep the teaching pause, progress markers, and narration.
+- [ ] Verify the final clip and deliver only the focused video experience.
