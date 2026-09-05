@@ -1,7 +1,6 @@
-# Genuine Moving Teacher Revision
+# Clean Teacher Motion Clip Fix
 
-- [ ] Replace the still-image teacher treatment with continuous animated performance.
-- [ ] Add visible speaking, head, arm, hand, facial, and pointing motion tied to lesson beats.
-- [ ] Keep the approved female teacher identity and futuristic classroom presentation.
-- [ ] Integrate the moving performance into the focused teacher experience.
-- [ ] Verify the experience and save a new delivery checkpoint.
+- [ ] Inspect the current moving clip for the unintended screen-within-screen ending.
+- [ ] Trim or rebuild the clip so only the teacher performance remains.
+- [ ] Reintegrate the clean motion clip into the lesson stage.
+- [ ] Verify the loop and save a new delivery checkpoint.
