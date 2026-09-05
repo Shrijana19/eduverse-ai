@@ -1,7 +1,6 @@
-# Final Reference-Inspired Teacher Video
+# Face-Safe Caption Fix
 
-- [ ] Preserve the semi-realistic digital teacher identity.
-- [ ] Keep continuous slide-in, bobbing, nod/tilt, and gesture motion.
-- [ ] Keep the animated Newton’s Laws diagram stages and teacher gesture cue.
-- [ ] Keep the teaching pause, progress markers, and narration.
-- [ ] Verify the final clip and deliver only the focused video experience.
+- [ ] Move the lesson caption away from the teacher’s face.
+- [ ] Preserve the teacher motion, diagram stages, pause, progress markers, and narration.
+- [ ] Re-render and verify the corrected video.
+- [ ] Deliver the face-safe video.
